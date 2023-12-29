@@ -1,3 +1,4 @@
 new page is created!
 process the data
 git
+get the information from the user
