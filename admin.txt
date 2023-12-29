@@ -1,2 +1,6 @@
 Can add or Remove the users
+
 can change the content - delete
+
+can change the content-remove
+
